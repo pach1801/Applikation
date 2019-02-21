@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Applikation</string>
+    <string name="Home">Home</string>
+    <string name="Timer">Timer</string>
+    <string name="Workout">Workout</string>
+    <string name="Profile">Profile</string>
+    <string name="Settings">Settings</string>
+    <string name="ChooseWorkout">Choose Workout</string>
+    <string name="Workout1">Workout 1</string>
+    <string name="Workout2">Workout 2</string>
+    <string name="Workout3">Workout 3</string>
+    <string name="WorkoutA">Workout A</string>
+    <string name="WorkoutB">Workout B</string>
+    <string name="ChooseType">Choose Type</string>
+    <string name="Upper">Upper</string>
+    <string name="Lower">Lower</string>
+    <string name="Core">Core</string>
+
+    <string name="MuscleBuildning">Muscle Building</string>
+    <string name="FatLoss">Fat Loss</string>
+    <string name="FullBody">Full Body</string>
+    <string name="Beginner">Beginner</string>
+    <string name="AtHome">At Home</string>
+    <string name="Submit">Submit</string>
+    <string name="SaveData">Save</string>
+    <string name="Start">Start</string>
+    <string name="Pause">Pause</string>
+    <string name="Reset">Reset</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

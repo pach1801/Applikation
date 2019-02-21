@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Applikation</string>
+    <string name="Home">Hemma</string>
+    <string name="Timer">Tidur</string>
+    <string name="Workout">Träning</string>
+    <string name="Profile">Profil</string>
+    <string name="Settings">Inställningar</string>
+    <string name="ChooseWorkout">Välj Träning</string>
+    <string name="Workout1">Träning 1</string>
+    <string name="Workout2">Träning 2</string>
+    <string name="Workout3">Träning 3</string>
+    <string name="WorkoutA">Träning A</string>
+    <string name="WorkoutB">Träning B</string>
+    <string name="ChooseType">Välj Typ</string>
+    <string name="Upper">Övre</string>
+    <string name="Lower">Nedre</string>
+    <string name="Core">Bål</string>
+
+    <string name="MuscleBuildning">Bygg Muskler</string>
+    <string name="FatLoss">Bränna Fett</string>
+    <string name="FullBody">Helkropp</string>
+    <string name="Beginner">Nybörjar</string>
+    <string name="AtHome">Hemma</string>
+
+    <string name="Submit">Applicera</string>
+    <string name="SaveData">Spara</string>
+
+    <string name="Start">Start</string>
+    <string name="Pause">Pausa</string>
+    <string name="Reset">Nollställ</string>
+
+
+
+
+    </resources>
